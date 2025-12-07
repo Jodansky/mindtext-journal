@@ -8,7 +8,7 @@ This is a standalone playground for the MindText journal experience with a chat-
    ```
    npm install
    ```
-2. Copy `.env.local.example` to `.env.local` and set `OPENAI_API_KEY`.
+2. Copy `.env.local.example` to `.env.local` and manually set `OPENAI_API_KEY`. (OpenAI API key must be valid.)
 3. Run the development server
    ```
    npm run dev
