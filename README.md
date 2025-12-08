@@ -1,6 +1,6 @@
 # MindText Journal
 
-This is a standalone playground for the MindText journal experience with a chat-first writing view and a searchable summaries view.
+This is a standalone playground for the MindText journal experience with a chat view and a searchable summaries view.
 
 ## Getting Started
 
